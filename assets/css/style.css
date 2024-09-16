@@ -792,6 +792,7 @@ footer .logo {
   .hero-content,
   .about-bottom-content {
     text-align: left;
+    color: white;
   }
 
   .hero .btn-primary,
@@ -1083,7 +1084,11 @@ footer .logo {
    */
 
   .hero-banner {
-    right: 100px;
+    right: 200px;
+  }
+
+  .shape-content {
+    width: 700px;
   }
 
   /**
